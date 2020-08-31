@@ -9,7 +9,7 @@ code .
 ## Folder Structure 
 The main folder you will spend your time in is `src` 
 
-![Folder Structure](../folderStruct.png)
+![Folder Structure](/folderStruct.png)
 
 ## Pages
 All files in this folder become routes for your website
