@@ -8,6 +8,8 @@ Before you proceed ensure you have the following keys:
 * Shopify Admin Key Password
 * Shopify storefront access key
 * Shopify store name
+
+>You can follow this 1 minute tutorial to retrieve your keys [Shopify Keys](https://drive.google.com/file/d/13XF6YztruO-dccYg7kHH7PMszaZAyq2L/view?usp=sharing)
   
 ```bash
 wipaytemplate init 
